@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="WarungPintar">
+  <DataContextMoniker Name="/WarungPintarDataContext" />
+  <nestedChildShapes>
+    <classShape Id="65e744c0-ef7e-40ab-b4b1-b8cf4dc1ef6a" absoluteBounds="5.25, 2.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/WarungPintarDataContext/Message" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0747f25f-f67e-4776-a8d2-f5a780961147" absoluteBounds="5.265, 2.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
